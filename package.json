@@ -438,6 +438,9 @@
         "icon": "Wecom_A.png",
         "author": "叮叮当",
         "level": 1
+        "history": {
+            "v1.1": "增加企业微信多个WebHook推送,使用分号间隔"
+        }
     },
     "EpisodeGroupMeta": {
         "name": "TMDB剧集组刮削",
